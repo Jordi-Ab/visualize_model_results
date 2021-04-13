@@ -9,8 +9,8 @@ setup(
     author_email="jordi_a3@hotmail.com",
     packages=find_packages(
         include=[
-            "features_pipeline", 
-            "features_pipeline.*"
+            "visualize_model_results", 
+            "visualize_model_results.*"
         ]
     ),
     install_requires=[
