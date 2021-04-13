@@ -1,5 +1,4 @@
 from setuptools import setup, find_packages
-from wrapper_scripts import FilePicker
 
 setup(
     name="visualize_model_results",
